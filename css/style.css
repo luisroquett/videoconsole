@@ -10,11 +10,33 @@ body {
   align-items: center;
   justify-content: center;
 }
-.base{
-    width: 350px;
-    height: 600px;
-    background-color: purple;
-    border-radius: 1px 1px 10px 10px; 
-    box-shadow: 2px 2px 2px 4px;
-
+.base {
+  width: 350px;
+  height: 600px;
+  background-color: purple;
+  border-radius: 1px 1px 10px 10px;
+  box-shadow: 2px 2px 2px 4px;
 }
+.blackscreen {
+  width: 330px;
+  height: 310px;
+  background-color: black;
+  position: relative;
+  top: 5px;
+  left: 10px;
+  border-radius: 0 0 10px 10px;
+}
+.screen{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(27, 27, 27);
+    position: relative;
+    left: 12%;
+    top: 3%;
+}
+
+
+
+     
+
+
