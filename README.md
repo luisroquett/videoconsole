@@ -11,4 +11,5 @@ This is the first project in which I created a video console using HTML and CSS 
 
 ## Getting Started <a name = "getting_started"></a>
 
-This would be the image of the console created with HTML and css combining several commands, the image is that of a Game Boy Color
+What can be seen is how using all the steps learned in class and others investigated in different sites I was able to represent a Game Boy Color.
+And this is the demo [Nintendo](https://luisroquett.github.io/videoconsole/)
