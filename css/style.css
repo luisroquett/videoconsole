@@ -131,3 +131,23 @@ body {
   left: 190px;
   box-shadow: 2px 2px 2px 2px;
 }
+.startword {
+  
+  position: relative;
+  top: -641px;
+  left: 195px;
+  font-family: "Roboto";
+}
+.selectword{
+    position: relative;
+  top: -660px;
+  left: 133px;
+  font-family: "Roboto";
+  
+}
+.nintendo{
+    position: relative;
+  top: -800px;
+  left: 133px;
+  font-family: "Roboto";
+}
