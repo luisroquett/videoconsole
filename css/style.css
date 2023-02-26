@@ -48,6 +48,11 @@ body {
   border-radius: 10%;
   position: relative;
   left: 30px;
+  background-image: url(../nintendologo.png);
+  background-repeat: no-repeat;
+  background-size: 120px;
+  background-position-y: 280px;
+  background-position-x: 80px;
 }
 .direction {
   background-color: grey;
@@ -132,21 +137,19 @@ body {
   box-shadow: 2px 2px 2px 2px;
 }
 .startword {
-  
   position: relative;
-  top: -641px;
+  top: -620px;
   left: 195px;
   font-family: "Roboto";
 }
-.selectword{
-    position: relative;
-  top: -660px;
+.selectword {
+  position: relative;
+  top: -640px;
   left: 133px;
   font-family: "Roboto";
-  
 }
-.nintendo{
-    position: relative;
+.nintendo {
+  position: relative;
   top: -800px;
   left: 133px;
   font-family: "Roboto";
