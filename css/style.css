@@ -1,5 +1,20 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: peru;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.base{
+    width: 350px;
+    height: 600px;
+    background-color: purple;
+    border-radius: 1px 1px 10px 10px; 
+    box-shadow: 2px 2px 2px 4px;
+
 }
