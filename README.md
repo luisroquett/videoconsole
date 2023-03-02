@@ -20,7 +20,7 @@ What can be seen is how using all the steps learned in class and others investig
 
 ## Result View
 
-<img src="screenshot.png" alt="">
+<img src="img/screenshot.png" alt="">
 
 ## Demo <a name = "demo"></a>
 
