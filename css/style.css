@@ -27,7 +27,7 @@ body {
   top: -640px;
   left: 10px;
   border-radius: 0 0 10px 10px;
-  background-image: url(../logo.png);
+  background-image: url(../img/logo.png);
   background-repeat: no-repeat;
   background-size: 200px;
   background-position-y: 230px;
@@ -48,7 +48,7 @@ body {
   border-radius: 10%;
   position: relative;
   left: 30px;
-  background-image: url(../nintendologo.png);
+  background-image: url(../img/nintendologo.png);
   background-repeat: no-repeat;
   background-size: 120px;
   background-position-y: 280px;
